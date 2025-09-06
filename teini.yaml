@@ -2,3 +2,7 @@ payload:
     # 博客
     - +.xlog.page
 
+    # 机场
+    - +.gt-all.com
+    
+
