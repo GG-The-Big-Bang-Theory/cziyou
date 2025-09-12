@@ -4,5 +4,8 @@ payload:
 
     # 机场
     - +.gt-all.com
+
+    #adobe
+    - +.behance.net
     
 
