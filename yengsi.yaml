@@ -50,6 +50,10 @@ payload:
     - +.scmp.com
     - +.i-scmp.com
 
+    # 德国之声
+    - deutschewelle.h-cdn.com
+    - +.dw.com
+
     # 美国之音
     - +.amerikaninsesi.com
     - +.amerikaninsesi.org
