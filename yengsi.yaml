@@ -1,4 +1,7 @@
 payload:
+    # 电子书
+    - +.z-library.sk
+    
     # 纽约时报
     - +.nyt.com
     - +.nyt.net
