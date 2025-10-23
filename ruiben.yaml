@@ -1,15 +1,15 @@
 payload:
     # DUGA
-    - duga.jp
+    - +.duga.jp
 
     # FALENO
-    - faleno.jp
+    - +.faleno.jp
 
     # Gcolle
-    - gcolle.net
+    - +.gcolle.net
 
     # MGS
-    - mgstage.com
+    - +.mgstage.com
 
     # SOD
-    - sod.co.jp
+    - +.sod.co.jp
