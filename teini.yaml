@@ -26,3 +26,6 @@ payload:
 
     # cnmdb
     - +.cnmdb.net
+
+    # 其他
+    - +.odeloc.com
