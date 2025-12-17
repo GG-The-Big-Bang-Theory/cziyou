@@ -27,5 +27,8 @@ payload:
     # cnmdb
     - +.cnmdb.net
 
+    # xptv
+    - +.4k-av.com
+
     # 其他
     - +.nodeloc.com
