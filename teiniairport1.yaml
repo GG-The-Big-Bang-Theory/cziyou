@@ -1,4 +1,8 @@
 payload:   
-    # XPTV
-    # 爱壹帆
-    #- +.iyf.tv
+    # xptv
+    # 4k-av
+    - +.4k-av.com
+    - +.4kmp.com
+    # fmovies
+    - +.fmovies.co
+    - +.fmovies.llc
