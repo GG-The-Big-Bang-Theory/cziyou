@@ -27,5 +27,8 @@ payload:
     # cnmdb
     - +.cnmdb.net
 
+    # okemby
+    - +.okemby.org
+
     # 其他
     - +.nodeloc.com
