@@ -2,6 +2,9 @@ payload:
     # 博客
     - +.xlog.page
 
+    #奶昔论坛
+    - +.naixi.net
+
     # 机场
     - +.gt-all.com
 
