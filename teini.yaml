@@ -1,37 +1,37 @@
 payload:
-    # 博客
-    - +.xlog.page
+  # 博客
+  - '.xlog.page'
 
-    #奶昔论坛
-    - +.naixi.net
+  # 奶昔论坛
+  - '.naixi.net'
 
-    # 机场
-    - +.gt-all.com
+  # 机场
+  - '.gt-all.com'
 
-    # 洛雪音乐源
-    - +.sixyin.com
+  # 洛雪音乐源
+  - '.sixyin.com'
 
-    # Miss AV
-    - +.myavlive.com
-    - +.missav.ai
-    - +.missav.com
-    - +.missav.uno
-    - +.missav.vip
-    - +.missav.ws
-    - +.recombee.com
+  # Miss AV
+  - '.myavlive.com'
+  - '.missav.ai'
+  - '.missav.com'
+  - '.missav.uno'
+  - '.missav.vip'
+  - '.missav.ws'
+  - '.recombee.com'
 
-    # airav_cc
-    - +.airav.io
+  # airav_cc
+  - '.airav.io'
 
-    # avsex
-    - +.paycalling.com
-    - +.gg5.co
+  # avsex
+  - '.paycalling.com'
+  - '.gg5.co'
 
-    # cnmdb
-    - +.cnmdb.net
+  # cnmdb
+  - '.cnmdb.net'
 
-    # okemby
-    - +.okemby.org
+  # okemby
+  - '.okemby.org'
 
-    # 其他
-    - +.nodeloc.com
+  # 其他
+  - '.nodeloc.com'
