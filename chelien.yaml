@@ -1,8 +1,8 @@
 payload:
     # 公网IP域名
-    - +.320682666.xyz
-    - +.320682888.xyz
+    - '.320682666.xyz'
+    - '.320682888.xyz'
 
     # 天巡
-    - +.tianxun.com
+    - '.tianxun.com'
 
