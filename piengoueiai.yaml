@@ -1,8 +1,7 @@
 payload:
-    # ai
-    - +.apple-relay.apple.com
-    - +.gspe1-ssl.ls.apple.com
-    - +.guzzoni.apple.com
-    - +.apple-relay.cloudflare.com
-    - +.apple-relay.fastly-edge.com
-    - +.cp4.cloudflare.com
+  # Apple Relay (Private Relay)
+  - DOMAIN,apple-relay.apple.com
+  - DOMAIN,gspe1-ssl.ls.apple.com
+  - DOMAIN,guzzoni.apple.com
+  - DOMAIN,apple-relay.cloudflare.com
+  - DOMAIN,apple-relay.fastly-edge.com
