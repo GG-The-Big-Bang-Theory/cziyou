@@ -1,8 +1,8 @@
 payload:   
-    # xptv
-    # 4k-av
-    - +.4k-av.com
-    - +.4kmp.com
-    # fmovies
-    - +.fmovies.co
-    - +.fmovies.llc
+  # xptv
+  # 4k-av
+  - '.4k-av.com'
+  - '.4kmp.com'
+  # fmovies
+  - '.fmovies.co'
+  - '.fmovies.llc'
