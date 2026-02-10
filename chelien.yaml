@@ -6,3 +6,6 @@ payload:
     # 天巡
     - '.tianxun.com'
 
+    # emos emby
+    - '.emos.best'
+
