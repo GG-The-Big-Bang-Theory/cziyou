@@ -104,6 +104,16 @@ payload:
   - '.voazimbabwe.com'
   - '.zeriamerikes.com'
 
+    # 泰晤士报
+  - '.thetimes.ie'
+  - '.timesmembership.com'
+  - '.driving.co.uk'
+  - '.mytimesplus.co.uk'
+  - '.sportswomanoftheyear.co.uk'
+  - '.sportswomenoftheyear.co.uk'
+  - '.the-tls.co.uk'
+  - '.thesundaytimes.co.uk'
+  - '.thetimes.co.uk'
   # Hacker News
   - '.ycombinator.com'
 
