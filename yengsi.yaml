@@ -114,6 +114,8 @@ payload:
   - '.the-tls.co.uk'
   - '.thesundaytimes.co.uk'
   - '.thetimes.co.uk'
+  - '.thetimes.com'
+  
   # Hacker News
   - '.ycombinator.com'
 
