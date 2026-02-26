@@ -124,3 +124,6 @@ payload:
 
   # 机场测评
   - '.duyaoss.com'
+
+  # 馒头PT
+  - '.m-team.cc'
