@@ -1,0 +1,6 @@
+payload:
+  # Apple F1转播
+  - 'play-edge.itunes.apple.com'
+  - 'known-issues.apple.com'
+  - 'hls-amt.itunes.apple.com'
+  - 'linear.tv.apple.com'
