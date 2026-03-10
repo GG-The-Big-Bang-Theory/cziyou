@@ -104,7 +104,7 @@ payload:
   - '.voazimbabwe.com'
   - '.zeriamerikes.com'
 
-    # 泰晤士报
+  # 泰晤士报
   - '.thetimes.ie'
   - '.timesmembership.com'
   - '.driving.co.uk'
@@ -115,6 +115,12 @@ payload:
   - '.thesundaytimes.co.uk'
   - '.thetimes.co.uk'
   - '.thetimes.com'
+
+  # 台湾联合新闻网
+  - '.udn.com'
+  - '.udndata.com'
+  - '.udnfunlife.com'
+  - '.udn.com.tw'
   
   # Hacker News
   - '.ycombinator.com'
