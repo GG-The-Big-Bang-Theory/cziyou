@@ -121,6 +121,10 @@ payload:
   - '.udndata.com'
   - '.udnfunlife.com'
   - '.udn.com.tw'
+
+  # 台湾自由时报
+  - ‘.ltn.com.tw’
+  - ‘.yes123.com.tw’
   
   # Hacker News
   - '.ycombinator.com'
