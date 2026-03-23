@@ -12,3 +12,6 @@ payload:
     # 馒头PT
     - '.tclei.top'
 
+    # SNTP
+    - '.array2026.cc'
+
