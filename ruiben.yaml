@@ -38,3 +38,6 @@ payload:
   - '.microad.co.jp'
   - '.microad.jp'
   - '.socdm.com'
+
+  # SNTP Media主线路
+  - '.cn2gias.uk'
