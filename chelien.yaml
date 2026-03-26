@@ -1,17 +1,17 @@
 payload:
     # 公网IP域名
-    - '.320682666.xyz'
-    - '.320682888.xyz'
+    - '+.320682666.xyz'
+    - '+.320682888.xyz'
 
     # 天巡
-    - '.tianxun.com'
+    - '+.tianxun.com'
 
     # emos emby
-    - '.emos.best'
+    - '+.emos.best'
 
     # 馒头PT
-    - '.tclei.top'
+    - '+.tclei.top'
 
     # SNTP Media CF优选
-    - '.array2026.cc'
+    - '+.array2026.cc'
 
