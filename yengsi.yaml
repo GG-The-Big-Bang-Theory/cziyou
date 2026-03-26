@@ -117,10 +117,10 @@ payload:
   - '.thetimes.com'
 
   # 台湾联合新闻网
-  - 'udn.com'
-  - '.udndata.com'
-  - '.udnfunlife.com'
-  - '.udn.com.tw'
+  - '+.udn.com'
+  - '+.udndata.com'
+  - '+.udnfunlife.com'
+  - '+.udn.com.tw'
 
   # 台湾自由时报
   - '.ltn.com.tw'
