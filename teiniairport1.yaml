@@ -7,3 +7,6 @@ payload:
   # fmovies
   - '+.fmovies.co'
   - '+.fmovies.llc'
+
+  # fc2
+  - '+.fc2.com'
