@@ -2,9 +2,6 @@ payload:
   # 博客
   - '+.xlog.page'
 
-  # 拓竹
-  - '+.bambulab.com'
-
   # 奶昔论坛
   - '+.naixi.net'
 
