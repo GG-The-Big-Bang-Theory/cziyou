@@ -5,6 +5,9 @@ payload:
   - 'hls-amt.itunes.apple.com'
   - 'linear.tv.apple.com'
 
+  # 直播源
+  - 'dpdns.org'
+
   #Yandex
   - 'yandex-pogoda.static-storage.net'
   - '+.yandex'
