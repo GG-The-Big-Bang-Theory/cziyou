@@ -5,7 +5,7 @@ payload:
   - 'hls-amt.itunes.apple.com'
   - 'linear.tv.apple.com'
 
-  # 直播源
+  # IPTV直播源
   - 'sharewithyou.dpdns.org'
 
   #Yandex
