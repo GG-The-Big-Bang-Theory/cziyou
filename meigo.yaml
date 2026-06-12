@@ -6,7 +6,7 @@ payload:
   - 'linear.tv.apple.com'
 
   # IPTV直播源
-  - 'sharewithyou.dpdns.org'
+  - '+.dpdns.org'
 
   #Yandex
   - 'yandex-pogoda.static-storage.net'
